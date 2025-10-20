@@ -43,7 +43,7 @@ Fully redesigned with a focus on modern architecture, performance, and clean vis
 |-------------|-------------|
 | [**version-archive**](https://github.com/RavenReloaded/version-archive) | Archive of all Raven Reloaded releases |
 | [**backend-server**](https://github.com/RavenReloaded/backend-server) | Backend services powering the client |
-| [**docs**](https://github.com/RavenReloaded/docs) | Project documentation and wiki |
+| [**docs**](https://github.com/RavenReloaded/docs/wiki) | Project documentation and wiki |
 | [**Main Organization**](https://github.com/RavenReloaded) | Browse all repositories under Raven Reloaded |
 
 ---
