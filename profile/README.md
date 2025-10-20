@@ -26,7 +26,23 @@
 <img src="https://raw.githubusercontent.com/RavenReloaded/.github/refs/heads/main/profile/images/GUI.webp" alt="Raven Reloaded GUI" width="1000">
 </p>
 
-Discord
-https://discord.com/invite/UH7HQpWrGf 
-Web
-https://zpatkyvpatky.xyz/ravenreloaded
+## 📚 Dokumentace a repozitáře
+
+<div align="center">
+
+### 🗂️ Hlavní repozitáře
+
+[![Wiki](https://img.shields.io/static/v1?message=Wiki&logo=book&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/RavenReloaded/docs/wiki)
+[![Version Archive](https://img.shields.io/static/v1?message=Version%20Archive&logo=archive&label=&color=FF6B6B&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/RavenReloaded/version-archive)
+[![Backend Server](https://img.shields.io/static/v1?message=Backend%20Server&logo=server&label=&color=4ECDC4&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/RavenReloaded/backend-server)
+
+</div>
+
+## 🌐 Odkazy
+
+<div align="center">
+
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/invite/UH7HQpWrGf)
+[![Web](https://img.shields.io/static/v1?message=Web&logo=internetexplorer&label=&color=4a90e2&logoColor=white&labelColor=&style=for-the-badge)](https://zpatkyvpatky.xyz/ravenreloaded)
+
+</div>
