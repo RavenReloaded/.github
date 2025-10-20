@@ -14,9 +14,12 @@
   </a>
 </div>
 
+---
+
 <div align="center">
   
-**Raven Reloaded** is a modern Minecraft cheat client for version **1.8.9**, based on the original Raven XD project, completely redesigned with a focus on up-to-dateness, versatility, modern architecture, and appearance.
+**Raven Reloaded** is a modern Minecraft cheat client for **version 1.8.9**, based on the original Raven XD project.  
+Fully redesigned with a focus on modern architecture, performance, and clean visuals.
 
 ![gray0_ctp_on_line](https://github.com/user-attachments/assets/166e0de9-2dc0-4935-8b65-963d5e92fccd)
 
@@ -26,7 +29,25 @@
 <img src="https://raw.githubusercontent.com/RavenReloaded/.github/refs/heads/main/profile/images/GUI.webp" alt="Raven Reloaded GUI" width="1000">
 </p>
 
-Discord
-https://discord.com/invite/UH7HQpWrGf 
-Web
-https://zpatkyvpatky.xyz/ravenreloaded
+---
+
+### 🔗 Official Links
+- **Discord:** [discord.gg/UH7HQpWrGf](https://discord.com/invite/UH7HQpWrGf)  
+- **Website:** [zpatkyvpatky.xyz/ravenreloaded](https://zpatkyvpatky.xyz/ravenreloaded)
+
+---
+
+### 📁 Project Directory
+
+| Repository | Description |
+|-------------|-------------|
+| [**version-archive**](https://github.com/RavenReloaded/version-archive) | Archive of all Raven Reloaded releases |
+| [**backend-server**](https://github.com/RavenReloaded/backend-server) | Backend services powering the client |
+| [**docs**](https://github.com/RavenReloaded/docs) | Project documentation and wiki |
+| [**Main Organization**](https://github.com/RavenReloaded) | Browse all repositories under Raven Reloaded |
+
+---
+
+<div align="center">
+  <sub>© Raven Reloaded Project — maintained by <a href="https://github.com/patekcz">patek_cz</a></sub>
+</div>
