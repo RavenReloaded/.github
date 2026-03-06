@@ -50,4 +50,12 @@ Fully redesigned with a focus on modern architecture, performance, and clean vis
 
 <div align="center">
   <sub>© Raven Reloaded Project — maintained by <a href="https://github.com/patekcz">patek_cz</a></sub>
+  
 </div>
+
+
+<p align="center">
+I develop the client myself and have already invested a lot of time into it.<br>
+If you like the project, I would appreciate any support.<br><br>
+<a href="https://ko-fi.com/patek_cz">Support the project on Ko-fi</a>
+</p>
