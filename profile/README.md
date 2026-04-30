@@ -18,7 +18,7 @@
 
 <div align="center">
   
-**Raven Reloaded** is a modern Minecraft cheat client for **version 1.8.9**, based on the original Raven XD project.  
+**Raven Reloaded** is a modern Minecraft pvp client for **version 1.8.9**, based on the original Raven XD project.  
 Fully redesigned with a focus on modern architecture, performance, and clean visuals.
 
 ![gray0_ctp_on_line](https://github.com/user-attachments/assets/166e0de9-2dc0-4935-8b65-963d5e92fccd)
